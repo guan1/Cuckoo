@@ -59,7 +59,7 @@
       "package": "Stencil",
       "reason": null,
       "repositoryURL": "https://github.com/kylef/Stencil.git",
-      "version": "0.8.0"
+      "version": "0.9.0"
     },
     {
       "package": "Yams",
